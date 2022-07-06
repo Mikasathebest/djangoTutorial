@@ -1,0 +1,9 @@
+cd C:\Users\harryd\python_code\djangoTutorial\storefront
+#install env
+pip3 install pipenv
+
+# activate env
+pip3env shell
+python manage.py runserver <port>
+
+python manage.py startapp playground
