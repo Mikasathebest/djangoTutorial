@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=rHux0gMZ3Eg&t=2108s
+
 # Install prerequests
 cd C:\Users\harryd\python_code\djangoTutorial\storefront
 #install env
